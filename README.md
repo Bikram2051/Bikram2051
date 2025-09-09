@@ -8,7 +8,7 @@
 ## 🌟 What I'm Working On  
 - 📊 Building interactive dashboards with Tableau & Python  
 - 🎮 Coding Nepali cultural game *Bagh Chal* in Pygame  
-- 💻 Personal portfolio & digital marketing website projects  
+- 💻 Personal portfolio & Home theatre systems website projects  
 - 📚 Exploring machine learning and data visualization  
 
 ---
