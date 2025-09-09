@@ -1,16 +1,40 @@
-## Hi there 👋
+# Hi there, I'm Bikram 👋  
 
-<!--
-**Bikram2051/Bikram2051** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Master of Data Science student at **Swinburne University**  
+💡 Passionate about data, coding, and turning ideas into projects  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 What I'm Working On  
+- 📊 Building interactive dashboards with Tableau & Python  
+- 🎮 Coding Nepali cultural game *Bagh Chal* in Pygame  
+- 💻 Personal portfolio & digital marketing website projects  
+- 📚 Exploring machine learning and data visualization  
+
+---
+
+## 🛠️ Tech Stack  
+**Languages:** Python, SQL, HTML/CSS, JavaScript  
+**Tools:** GitHub, Tableau, VS Code, Jupyter, Pandas, NumPy  
+**Frameworks:** Flask, Pygame  
+**Databases:** MySQL, PostgreSQL  
+
+---
+
+## 📈 GitHub Stats  
+![Bikram's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOURUSERNAME&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOURUSERNAME&layout=compact&theme=radical)  
+
+---
+
+## 🌍 Fun Facts  
+- ✈️ Love traveling & exploring cultural diversity  
+- 🎬 Big fan of home-theatre systems & immersive audio  
+- 🐅 Currently making tigers and goats fight in my game  
+
+---
+
+## 📫 Connect With Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bikram2051/)  
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-black?logo=github&logoColor=white)](https://public.tableau.com/app/profile/bikram.bhattarai/vizzes)  
