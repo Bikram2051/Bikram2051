@@ -30,9 +30,7 @@ My part was the data build, the models and the figures. **[Read the case study](
 | Project | What it is | Built with |
 |:--|:--|:--|
 | [OSHC When It Matters](https://github.com/Bikram2051/oshc-when-it-matters) | A learning prototype that helps international students understand their Overseas Student Health Cover. Every chat answer passes an input review, a grounded draft and an output audit. I wrote the benefit arithmetic, the question classifier and the evaluation harness, all test first. Industry partner: Medibank. | Python, Streamlit, pytest |
-| [Survey platform](https://github.com/Bikram2051/survey-platform) | A multi-tenant survey backend with row-level security, offline sync and public self-response. Estimates are raked to census margins and never leave the API without a standard error. | Django REST, PostgreSQL, Docker |
 | [Domain adaptive sentiment analysis](https://github.com/TDP-2026-Repository/TECHNOLOGY-DESIGN-PROJECT) | As the team's data engineer I built one preprocessing pipeline and fixed train, validation and test splits across GoEmotions and the Financial PhraseBank, so no modelling notebook could leak data into its own evaluation. | Python, pandas, Hugging Face |
-| [AlVik](https://github.com/Bikram2051/AlVik) | A single-file AI chat client behind a Cloudflare Worker. The Worker holds every provider key, signs expiring sessions and syncs chats across devices, so no secret reaches the browser. | JavaScript, Cloudflare Workers |
 | [Australian beach and water locations](https://github.com/Bikram2051/Bikram2051-COS60008-Assignment) | Open data on beach amenities and regional climate, cleaned and analysed in a notebook that can be rerun end to end. | Python, pandas, Jupyter |
 | [EchoSphere](https://github.com/Bikram2051/university-web-app-php-java) | A full-stack PHP and MySQL store with server-side validation and an order dashboard. | PHP, MySQL |
 
