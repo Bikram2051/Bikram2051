@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 342" width="800" height="342" role="img" aria-labelledby="t d" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">
+<title id="t">The bigger the weight gap, the more often it is the lighter car's driver who is hurt</title>
+<desc id="d">Share of two-car crashes with exactly one driver killed or seriously injured where it was the lighter car's driver: Up to 100 kg 52%, 100 to 300 kg 60%, 300 to 500 kg 69%, 500 to 800 kg 77%, Over 800 kg 86%.</desc>
+<text x="0" y="22" font-size="19" font-weight="700" fill="#e6edf3">The bigger the weight gap, the more often it is the lighter car's driver who is hurt</text>
+<text x="0" y="48" font-size="13.5" fill="#9da7b3">Two-car crashes in Victoria where exactly one driver was killed or seriously injured, by the weight gap between the cars.</text>
+<rect x="0" y="72" width="12" height="12" rx="2" fill="#6477f2"/><text x="19" y="83" font-size="13.5" fill="#e6edf3">Lighter car's driver</text>
+<rect x="160" y="72" width="12" height="12" rx="2" fill="#2a3447"/><text x="179" y="83" font-size="13.5" fill="#e6edf3">Heavier car's driver</text>
+<text x="0" y="136.5" font-size="13.5" fill="#e6edf3">Up to 100 kg</text>
+<rect x="124" y="118" width="347.1" height="28" rx="4" fill="#6477f2"/>
+<rect x="473.1" y="118" width="322.9" height="28" rx="4" fill="#2a3447"/>
+<text x="133" y="136.5" font-size="13" font-weight="600" fill="#0c1526">52%</text>
+<text x="787" y="136.5" font-size="13" font-weight="600" text-anchor="end" fill="#e6edf3">48%</text>
+<text x="0" y="172.5" font-size="13.5" fill="#e6edf3">100 to 300 kg</text>
+<rect x="124" y="154" width="400.9" height="28" rx="4" fill="#6477f2"/>
+<rect x="526.9" y="154" width="269.1" height="28" rx="4" fill="#2a3447"/>
+<text x="133" y="172.5" font-size="13" font-weight="600" fill="#0c1526">60%</text>
+<text x="787" y="172.5" font-size="13" font-weight="600" text-anchor="end" fill="#e6edf3">40%</text>
+<text x="0" y="208.5" font-size="13.5" fill="#e6edf3">300 to 500 kg</text>
+<rect x="124" y="190" width="464.7" height="28" rx="4" fill="#6477f2"/>
+<rect x="590.7" y="190" width="205.3" height="28" rx="4" fill="#2a3447"/>
+<text x="133" y="208.5" font-size="13" font-weight="600" fill="#0c1526">69%</text>
+<text x="787" y="208.5" font-size="13" font-weight="600" text-anchor="end" fill="#e6edf3">31%</text>
+<text x="0" y="244.5" font-size="13.5" fill="#e6edf3">500 to 800 kg</text>
+<rect x="124" y="226" width="515.1" height="28" rx="4" fill="#6477f2"/>
+<rect x="641.1" y="226" width="154.9" height="28" rx="4" fill="#2a3447"/>
+<text x="133" y="244.5" font-size="13" font-weight="600" fill="#0c1526">77%</text>
+<text x="787" y="244.5" font-size="13" font-weight="600" text-anchor="end" fill="#e6edf3">23%</text>
+<text x="0" y="280.5" font-size="13.5" fill="#e6edf3">Over 800 kg</text>
+<rect x="124" y="262" width="575.6" height="28" rx="4" fill="#6477f2"/>
+<rect x="701.6" y="262" width="94.4" height="28" rx="4" fill="#2a3447"/>
+<text x="133" y="280.5" font-size="13" font-weight="600" fill="#0c1526">86%</text>
+<text x="787" y="280.5" font-size="13" font-weight="600" text-anchor="end" fill="#e6edf3">14%</text>
+<line x1="460.0" x2="460.0" y1="114" y2="294" stroke="#e6edf3" stroke-width="1" opacity="0.55"/>
+<text x="460.0" y="310" font-size="12" text-anchor="middle" fill="#9da7b3">Line marks an even split</text>
+<text x="0" y="336" font-size="12" fill="#9da7b3">Victoria Road Crash Data, 2012 to September 2024. 12,231 crashes with one driver hurt.</text>
+</svg>
