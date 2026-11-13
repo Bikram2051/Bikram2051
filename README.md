@@ -1,12 +1,12 @@
 # Bikram Bhattarai
 
-Data analyst in Melbourne. Close to four years in product and market insights, now finishing a Master of Data Science at Swinburne University of Technology. Day to day I work in SQL, Python, R, Tableau and Power BI.
+Entry-level data engineer in Melbourne. Over two years writing the SQL behind recurring product reporting as a customer insights analyst, now finishing a Master of Data Science at Swinburne University of Technology. I work in SQL and Python, keep everything in Git, and check that the numbers reconcile before anyone builds on them.
 
-I ask what a number is for before I calculate it, agree the definition before building anything, and keep the workings reproducible.
+I build data that still adds up six months later: agree the definition before building anything, fix the splits before anyone models, and keep the workings reproducible.
 
 **[Portfolio](https://bikrambhattarai.com)** &nbsp;|&nbsp; [Articles](https://bikrambhattarai.com/articles/) &nbsp;|&nbsp; [LinkedIn](https://www.linkedin.com/in/bikram2051/) &nbsp;|&nbsp; [Tableau Public](https://public.tableau.com/app/profile/bikram.bhattarai/vizzes) &nbsp;|&nbsp; [Resume (PDF)](https://bikrambhattarai.com/assets/Bikram-Bhattarai-Resume.pdf) &nbsp;|&nbsp; [Email](mailto:vikrambhattarai1994@gmail.com)
 
-Open to graduate and junior data analyst roles in Melbourne. Australian permanent resident with full working rights.
+Open to graduate and junior data engineering roles in Melbourne, and to data analyst roles. Australian permanent resident with full working rights.
 
 ## Latest: vehicle weight and driver injury in two-car crashes
 
@@ -29,8 +29,8 @@ My part was the data build, the models and the figures. **[Read the case study](
 
 | Project | What it is | Built with |
 |:--|:--|:--|
-| [OSHC When It Matters](https://github.com/Bikram2051/oshc-when-it-matters) | A learning prototype that helps international students understand their Overseas Student Health Cover. Every chat answer passes an input review, a grounded draft and an output audit. I wrote the benefit arithmetic, the question classifier and the evaluation harness, all test first. Industry partner: Medibank. | Python, Streamlit, pytest |
 | [Domain adaptive sentiment analysis](https://github.com/TDP-2026-Repository/TECHNOLOGY-DESIGN-PROJECT) | As the team's data engineer I built one preprocessing pipeline and fixed train, validation and test splits across GoEmotions and the Financial PhraseBank, so no modelling notebook could leak data into its own evaluation. | Python, pandas, Hugging Face |
+| [OSHC When It Matters](https://github.com/Bikram2051/oshc-when-it-matters) | A learning prototype that helps international students understand their Overseas Student Health Cover. Every chat answer passes an input review, a grounded draft and an output audit. I wrote the bill explainer's extraction, the benefit arithmetic (tests first), the question classifier and the evaluation code. Industry partner: Medibank. | Python, Streamlit, pytest |
 | [Australian beach and water locations](https://github.com/Bikram2051/Bikram2051-COS60008-Assignment) | Open data on beach amenities and regional climate, cleaned and analysed in a notebook that can be rerun end to end. | Python, pandas, Jupyter |
 | [EchoSphere](https://github.com/Bikram2051/university-web-app-php-java) | A full-stack PHP and MySQL store with server-side validation and an order dashboard. | PHP, MySQL |
 
@@ -40,8 +40,9 @@ Dashboards are on [Tableau Public](https://public.tableau.com/app/profile/bikram
 
 | | |
 |:--|:--|
-| Querying | SQL (MS SQL Server, PostgreSQL), CTEs, window functions |
+| Querying | SQL (MS SQL Server, PostgreSQL, MySQL), CTEs, window functions, data modelling for reporting |
+| Data preparation | Cleaning, standardising and combining sources in Python, split design, validation and reconciliation |
 | Programming | Python (pandas, NumPy, scikit-learn), R |
+| Engineering | Git and GitHub, GitHub Actions, Docker, pytest, Django REST, Streamlit |
 | Statistics | Regression, A/B testing, cohort and retention analysis, survey weighting |
 | Reporting | Tableau, Power BI, Looker Studio, Excel |
-| Building | Streamlit, Django REST, Docker, GitHub Actions |
