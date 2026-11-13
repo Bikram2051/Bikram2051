@@ -1,6 +1,6 @@
 # Bikram Bhattarai
 
-Entry-level data engineer in Melbourne. Over two years writing the SQL behind recurring product reporting as a customer insights analyst, now finishing a Master of Data Science at Swinburne University of Technology. I work in SQL and Python, keep everything in Git, and check that the numbers reconcile before anyone builds on them.
+Data engineer in Melbourne. Over two years writing the SQL behind recurring product reporting as a customer insights analyst, now finishing a Master of Data Science at Swinburne University of Technology. I work in SQL and Python, keep everything in Git, and check that the numbers reconcile before anyone builds on them.
 
 I build data that still adds up six months later: agree the definition before building anything, fix the splits before anyone models, and keep the workings reproducible.
 
